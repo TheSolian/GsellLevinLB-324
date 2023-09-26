@@ -46,4 +46,5 @@ Erklären Sie hier, wie Sie das Passwort aus Ihrer lokalen `.env` auf Azure übe
 
 Auf Azure kann man in der Konfiguration sogenannte "Application Settins" definieren. Da kann man, wie in einem `.env`, seine geheimen Werte eintragen.
 
-![Azure Application Settings](./assets/azure_env.png)
+
+![Azure_env](https://github.com/TheSolian/GsellLevinLB-324/assets/89124854/1b3c913b-c0d6-4c07-a3d9-8a0d2db8af7b)
