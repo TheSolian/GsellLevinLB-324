@@ -53,4 +53,4 @@ def add_entry():
 
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0")  # host instead of debug
+    app.run(host="0.0.0.0")
