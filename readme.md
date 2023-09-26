@@ -31,11 +31,7 @@ repos:
 
 3. Jetzt führt man noch den folgenden Befehl im Terminal/Powershell/CMD aus.
 ```bash
-# Windows
-python -m pytest
-
-# OSX
-python3 -m pytest
+pre-commit install --hook-type pre-commit --hook-type pre-push
 ```
 
 Jetzt ist man eigentlich schon einsatzbereit und man kann nun nur Commits machen, wenn alle Tests erfolgreich durchlaufen.
