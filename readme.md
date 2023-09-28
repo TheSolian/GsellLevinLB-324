@@ -48,3 +48,5 @@ Auf Azure kann man in der Konfiguration sogenannte "Application Settins" definie
 
 
 ![Azure_env](https://github.com/TheSolian/GsellLevinLB-324/assets/89124854/1b3c913b-c0d6-4c07-a3d9-8a0d2db8af7b)
+
+[Gehosteten Webseite](https://gselllevinlb-324.azurewebsites.net/)
